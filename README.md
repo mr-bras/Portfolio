@@ -1,1 +1,9 @@
 # Portfolio
+<div class="bg-info col-12" style="height:70px">
+<div class="card" style="width: 18rem;">
+  <img src="avatar.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+  </div>
